@@ -1,0 +1,8 @@
+.signUI{
+    text-align: center;
+}
+
+.password{
+    -Webkit-text-security: disc;
+}
+

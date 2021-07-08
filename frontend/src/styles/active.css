@@ -1,0 +1,26 @@
+.info{
+    display: flex;
+    flex-direction: row;
+    /*justify-content: space-evenly;*/
+    margin: 15px;
+}
+
+.wrapper{
+    margin: 50px;
+    border-bottom: 5px solid #cccccc;
+
+}
+
+.item{
+    padding-right: 30px;
+    flex: none;
+    width: fit-content;
+}
+
+.align{
+    margin-left: 5px;
+}
+
+.title{
+    margin-left: 50px;
+}

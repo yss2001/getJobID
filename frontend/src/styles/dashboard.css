@@ -1,0 +1,29 @@
+
+.option{
+    padding: 10px;
+    margin-bottom: 5px;
+}
+
+td, th {
+    text-align: center;
+    margin: 2px;
+    word-wrap: break-word;
+    vertical-align: middle;
+}
+
+table {
+    width: 100%;
+    table-layout: fixed;
+}
+
+.applied, .applied:hover{
+    background-color: lightseagreen;
+    color: #121212;
+}
+
+
+.full, .full:hover{
+    background-color: lightcoral;
+    color: #121212;
+}
+
